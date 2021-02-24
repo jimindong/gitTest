@@ -6,5 +6,13 @@ public class Student {
         System.out.println("567890");
     }
 
+    public static void hui(){
+        System.out.println("0000");
+        System.out.println("0000");
+        System.out.println("0000");
+        System.out.println("0000");
+        System.out.println("0000");
+        System.out.println("0000");
+    }
 
 }
