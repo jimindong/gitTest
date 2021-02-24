@@ -7,11 +7,10 @@ public class Student {
     }
 
     public static void hui(){
-        System.out.println("0000");//09876543243567
-
+        System.out.println("0000");23456789
+        //09876543243567
         System.out.println("0000");
         System.out.println("234567890");
-        System.out.println("0000");
         System.out.println("0000");
         System.out.println("0000");
         System.out.println("0000");
