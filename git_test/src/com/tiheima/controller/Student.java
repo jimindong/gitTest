@@ -8,6 +8,7 @@ public class Student {
 
     public static void hui(){
         System.out.println("0000");
+
         System.out.println("0000");
         System.out.println("0000");
         System.out.println("0000");
